@@ -15,6 +15,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - **Cloud Technologies:** Amazon Web Services (AWS EC2, S3, SQS, Lambda, API Gateway, CloudFormation), Microsoft Azure, Google Cloud Platform (GCP)
 
 ## 💼 Work Experience
+
 **Java Full Stack Developer** @ Company Name ()
 - Engaged in requirements gathering, analysis, design, development, and testing of applications using the AGILE (SCRUM) methodology, following a Test-Driven Development (TDD) approach.
 - Developed scalable enterprise web applications using Java 11 and J2EE, improving application response time by 40% through optimized OOP principles.
