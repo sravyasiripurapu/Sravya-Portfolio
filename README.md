@@ -21,7 +21,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - Implemented key technologies, including HTML5, CSS3, JavaScript, ReactJS, AJAX, Redux, Java 8 features, Spring Framework, Spring Boot, RESTful Web Services, and Hibernate, with a strong emphasis on security using Spring Security and OAuth 2.0.
 - Designed and built reusable React components (both functional and class-based) to enhance modularity and efficiency.
 
-**Java Full Stack Developer** @ Company Name ()
+**Java Full Stack Developer** @ American Tire distributors (Aug 2022 – Sep 2023)
 -	Responsible for requirement analysis of all the web applications and understanding the client requirements.
 -	Experience in the design and development of web-based applications using Java, JDBC, PL/SQL, Servlets, JSTL, JSP.
 -	Developed and Consumed REST based web Services using Java17 and Spring Boot and Drop wizard.
@@ -37,7 +37,9 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 ## 📬 Contact Me
 
 📧 Email: sravya0413@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile 
-🐙 GitHub:   
+🔗 LinkedIn: www.linkedin.com/in/sravyasiripurapu
+📞 Mobile No:414-395-0759 
+
+#Thank you!!! for visiting my personal portfolio, feel free to reach out to me for any opportunities.
 
 
