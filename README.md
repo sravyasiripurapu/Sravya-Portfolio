@@ -40,6 +40,6 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 - 🔗 LinkedIn: www.linkedin.com/in/sravyasiripurapu
 - 📞 Mobile No: 414-395-0759 
 
-# Thank you!!! for visiting my personal portfolio, feel free to reach out to me for any opportunities.
+**Thank you!!! for visiting my personal portfolio, feel free to reach out to me for any opportunities.**
 
 
