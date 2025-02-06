@@ -43,4 +43,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 **Thank you!!! for visiting my personal portfolio, feel free to reach out to me for any opportunities.**
 
+![LinkedIn Headshot](assets/LinkedIn%20Headshot.jpg)
+
+
 
