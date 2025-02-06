@@ -1,6 +1,6 @@
 # Sravya-Portfolio
 Hello it's me **Sravya Siripurapu** Java Full Stack Developer | Problem Solver 💻
-# 🌟 My Portfolio
+## 🌟 My Portfolio
 Welcome to my personal portfolio! This website showcases my projects, skills, and experiences as a Full Stack Developer. Built using modern technologies, it serves as a reflection of my expertise and passion as Java Full Stack Developer.
 ## 🚀 Tech Stack
 
@@ -38,7 +38,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 ## 📬 Contact Me
 
 - 📧 Email: sravya0413@gmail.com  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/sravyasiripurapu/)
+- 🔗 LinkedIn: ([https://www.linkedin.com/in/sravyasiripurapu/])
 - 📞 Mobile No: 414-395-0759 
 
 **Thank you!!! for visiting my personal portfolio, feel free to reach out to me for any opportunities.**
