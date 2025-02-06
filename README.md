@@ -37,7 +37,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 ## 📬 Contact Me
 
-📧 Email: sravya0413@gmail.com  
+📧 Email: [sravya0413@gmail.com]  
 🔗 LinkedIn: ([https://www.linkedin.com/in/sravyasiripurapu/])
 📞 Mobile No: 414-395-0759 
 
