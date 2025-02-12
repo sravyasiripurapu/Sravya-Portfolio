@@ -16,7 +16,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 ## 💼 Work Experience
 
-**Java Full Stack Developer** @ Fifth Third Bank (October 2023 - Present)
+**Java Full Stack Developer** @ NTT DATA (October 2023 - Present)
 - Engaged in requirements gathering, analysis, design, development, and testing of applications using the AGILE (SCRUM) methodology, following a Test-Driven Development (TDD) approach.
 - Developed scalable enterprise web applications using Java 11 and J2EE, improving application response time by 40% through optimized OOP principles.
 - Implemented key technologies, including HTML5, CSS3, JavaScript, ReactJS, AJAX, Redux, Java 8 features, Spring Framework, Spring Boot, RESTful Web Services, and Hibernate, with a strong emphasis on security using Spring Security and OAuth 2.0.
